@@ -3227,10 +3227,10 @@
     "@types/prop-types" "*"
     csstype "^3.0.2"
 
-"@types/rebass@^4.0.6":
-  version "4.0.6"
-  resolved "https://registry.npm.taobao.org/@types/rebass/download/@types/rebass-4.0.6.tgz#c33d133baca8a440b22ca4b3038014d0b0e8ce59"
-  integrity sha1-wz0TO6yopECyLKSzA4AU0LDozlk=
+"@types/rebass@^4.0.10":
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/@types/rebass/-/rebass-4.0.10.tgz#f7a819d039349c138f279d2104986d7604a85528"
+  integrity sha512-Bp9Y2Bc7wrZr2NYHrqWOVRHdL5I5CRIaOiG9hlnwHH5hFRf8/FJsiJmCMsBhlsma312Jc6xWL+XUtSnfio+wOA==
   dependencies:
     "@types/react" "*"
     "@types/styled-components" "*"
